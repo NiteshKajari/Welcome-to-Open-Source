@@ -69,13 +69,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/NiteshKajari">
-                    <img src="https://github.com/account" width="100px;" alt="Nitesh Kajari"/>
-                    <br />
-                    <sub><b>Nitesh Kajari</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
